@@ -1,11 +1,11 @@
 # mesa-27.0.1-glib-2.31-ubuntu20.04-linux-wayland-graphics
 vulkan.h , new generation rebuild , wayland mesa
 
-link all python , mesa-27.0.0 , ubuntu ,20.04
+link all python , mesa-27.0.1 , ubuntu ,20.04
 
 Ubuntu 20.04
 
-Download mesa install sh script 
+Download mesa install sh script https://github.com/Griggorii/mesa-27.0.1-glib-2.31-ubuntu20.04-linux-wayland-graphics/releases/tag/ubuntu-20.04-glib-2.31 
 
 $ chmod -R a+rwx ./mesa-original_build-backup.sh && sudo ./mesa-original_build-backup.sh
 
