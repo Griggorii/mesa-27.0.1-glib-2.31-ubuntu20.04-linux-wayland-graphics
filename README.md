@@ -21,7 +21,7 @@ $ LIBGL_DEBUG=verbose vblank_mode=0 glxgears
 
 $ LIBGL_DEBUG=verbose vblank_mode=1 glxgears
 
-Test multithread 2D https://www.shadertoy.com/view/3lsSzf replace 0 to 1 
+Test multithread 2D https://www.shadertoy.com/view/3lsSzf replace string parameter HW_PERFORMANCE 0 to 1 
 
 #if HW_PERFORMANCE==1
 
