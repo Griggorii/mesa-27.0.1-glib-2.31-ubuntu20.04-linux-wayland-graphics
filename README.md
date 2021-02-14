@@ -15,7 +15,11 @@ $ sudo rm -rf  /usr/lib/x86_64-linux-gnu/libXvMCr600.so.1 /usr/lib/x86_64-linux-
 
 Drirc https://github.com/Griggorii/drirc_acceleration_idea
 
+Test drirc
+
 $ LIBGL_DEBUG=verbose vblank_mode=0 glxgears
+
+$ LIBGL_DEBUG=verbose vblank_mode=1 glxgears
 
 My flags meson | потом помотрю можно ли что то еще включить или не стоит по скольку реакция может быть разной и где сделаешь то потом и в безопасный режим не зайдёт , а где то и добавит производительности как в этом случае мне удалось когда то получить avx.so и avx2.so и еще некоторые библиотеки включая pipe библиотеки.
 
