@@ -21,7 +21,11 @@ $ LIBGL_DEBUG=verbose vblank_mode=0 glxgears
 
 $ LIBGL_DEBUG=verbose vblank_mode=1 glxgears
 
-Test multithread 2D https://www.shadertoy.com/view/3lsSzf
+Test multithread 2D https://www.shadertoy.com/view/3lsSzf replace 0 to 1 
+
+#if HW_PERFORMANCE==1
+
+Compiled
 
 My flags meson | потом помотрю можно ли что то еще включить или не стоит по скольку реакция может быть разной и где сделаешь то потом и в безопасный режим не зайдёт , а где то и добавит производительности как в этом случае мне удалось когда то получить avx.so и avx2.so и еще некоторые библиотеки включая pipe библиотеки.
 
