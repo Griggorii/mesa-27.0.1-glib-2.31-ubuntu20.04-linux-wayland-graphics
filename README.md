@@ -1,5 +1,5 @@
 # mesa-27.0.1-glib-2.31-ubuntu20.04-linux-wayland-graphics
-vulkan.h , new generation rebuild , wayland mesa
+vulkan.h , new generation rebuild , wayland mesa , mesa 256 levels grayscale
 
 link all python , mesa-27.0.1 , ubuntu ,20.04
 
