@@ -7,11 +7,21 @@ Ubuntu 20.04
 
 Download mesa install sh script https://github.com/Griggorii/mesa-27.0.1-glib-2.31-ubuntu20.04-linux-wayland-graphics/releases/tag/ubuntu-20.04-glib-2.31 
 
+Terninal run locate .sh , mesa-27.0.1_vulkan.h-ubuntu-20.04-glib-2.31_build_griggorii.tar.xz command copy paste enter:
+
 $ chmod -R a+rwx ./mesa-27.0.1-install-ubuntu-20.04.sh && sudo ./mesa-27.0.1-install-ubuntu-20.04.sh
 
 check info command:
 
 $ glxinfo
+
+_____________________________________________________________________
+
+Stable dconf gui fast expand ghrome , chromium all analog browsers add mesa 27.0.1
+
+https://github.com/Griggorii/Setting_dconf_linux_OS20.04_V43.0_By_Griggorii_Wayland_adaptation
+
+____________________________________________________________________-
 
 Recomendation install mesa dev link cean optional
 
