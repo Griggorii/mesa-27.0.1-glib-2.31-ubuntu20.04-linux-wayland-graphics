@@ -7,7 +7,11 @@ Ubuntu 20.04
 
 Download mesa install sh script https://github.com/Griggorii/mesa-27.0.1-glib-2.31-ubuntu20.04-linux-wayland-graphics/releases/tag/ubuntu-20.04-glib-2.31 
 
-$ chmod -R a+rwx ./mesa-original_build-backup.sh && sudo ./mesa-original_build-backup.sh
+$ chmod -R a+rwx ./mesa-27.0.1-install-ubuntu-20.04.sh && sudo ./mesa-27.0.1-install-ubuntu-20.04.sh
+
+check info command:
+
+$ glxinfo
 
 Recomendation install mesa dev link cean optional
 
