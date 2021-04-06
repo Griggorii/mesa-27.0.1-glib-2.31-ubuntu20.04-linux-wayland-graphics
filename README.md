@@ -11,6 +11,8 @@ Terninal run locate .sh , mesa-27.0.1_vulkan.h-ubuntu-20.04-glib-2.31_build_grig
 
 $ chmod -R a+rwx ./mesa-27.0.1-install-ubuntu-20.04.sh && sudo ./mesa-27.0.1-install-ubuntu-20.04.sh
 
+Enjoy test fps game , test obs-studio BDH
+
 check info command:
 
 $ glxinfo
