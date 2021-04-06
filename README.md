@@ -1,4 +1,4 @@
-# mesa-27.0.1-glib-2.31-ubuntu20.04-linux-wayland-graphics
+# mesa-27.0.1-glib-2.31-ubuntu20.04-linux-wayland-graphics / ubuntu-21.04-hirsute support replace wayland to intel backup restore wayland
 vulkan.h , new generation rebuild , wayland mesa , mesa 256 levels grayscale
 
 link all python , mesa-27.0.1 , ubuntu ,20.04 , ubuntu-21.04-hirsute support replace wayland to intel
