@@ -41,7 +41,7 @@ Test multithread 2D https://www.shadertoy.com/view/3lsSzf replace string paramet
 
 #if HW_PERFORMANCE==1
 
-Test convert install gst readme.txt
+Test convert install gts.tar.xz gst readme.txt
 
 $ stl2gts -r < splash279.stl > splash279.gts
 
